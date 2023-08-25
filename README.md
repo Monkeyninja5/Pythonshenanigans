@@ -1,2 +1,2 @@
 # Pythonshenanigans
-print("Hello, World!")
+Hello, World
